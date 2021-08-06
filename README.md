@@ -5,3 +5,7 @@
  Importer uses external libraries.
  
  To use first check settings file in settings folder and enter a required paths.
+ 
+ __________
+ 
+ Program ended on 10.2020 
